@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<allhref>
+	<site>
+    	<a href="http://1tv.com.ua/uk/tv/2015/02/27"></a>
+		<path>
+			<name>//div[@class='b-tvlist-title']/a | //div[@class='b-tvlist-title']</name>
+			<time>//tr/td[1]</time>
+		</path>
+	</site>
+	<site>
+    	<a href="http://kanalukraina.tv/schedule/"></a>
+		<path>
+			<name>//ul[@class='tvguide_list clearfix']/li/div[3]/div[2]/a[1]</name>
+			<time>//ul[@class='tvguide_list clearfix']/li/div[3]/div[1]</time>
+		</path>
+	</site>
+	<site>
+    	<a href="http://www.stb.ua/tv/monday/"></a>
+		<path>
+			<name>//div[@id='f-day-1']/div/a/div[3]</name>
+			<time>//div[@id='f-day-1']/div/a/div[1]</time>
+		</path>
+	</site>
+	<site>
+    	<a href="http://inter.ua/uk/tv"></a>
+		<path>
+			<name>//div[@class='h-block']/div[@class='b-tvlist']/dl/dd/a</name>
+			<time>//div[@class='h-block']/div[@class='b-tvlist']/dl/dt</time>
+		</path>
+	</site>
+	<site>
+    	<a href="http://ntn.ua/uk/tv"></a>
+		<path>
+			<name>//div[@class='b-tvlist']/ul/li/div[2]/a</name>
+			<time>//div[@class='b-tvlist']/ul/li/div[1]</time>
+		</path>
+	</site>
+	<site>
+    	<a href="http://tvgid.ua/channels/tnt/"></a>
+		<path>
+			<name>//td[@class='item']/a</name>
+			<time>//td[@class='time']</time>
+		</path>
+	</site>
+</allhref>

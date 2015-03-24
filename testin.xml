@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<allhref>
+	<site>
+    		<a href="http://1tv.com.ua/uk/tv/2015/02/27"></a>
+		<path>
+			<name>//div[@class='b-tvlist-title']/a | //div[@class='b-tvlist-title']</name>
+			<time>//tr/td[1]</time>
+		</path>
+	</site>
+</allhref>
