@@ -10,7 +10,7 @@
 	<site>
     	<a href="http://kanalukraina.tv/schedule/"></a>
 		<path>
-			<name>//ul[@class='tvguide_list clearfix']/li/div[3]/div[2]/a[1]</name>
+			<name]/li/div[3]/div[2]/a[1]</name>
 			<time>//ul[@class='tvguide_list clearfix']/li/div[3]/div[1]</time>
 		</path>
 	</site>
